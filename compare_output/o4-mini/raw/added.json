@@ -1,0 +1,204 @@
+{
+    "results": {
+        "ozwell": {
+            "g1": {
+                "958": {
+                    "clinical_concept": {
+                        "Chief complaint: pain in upper left canine": [
+                            "1761757526.9671009"
+                        ],
+                        "Pain in upper left canine": [
+                            "1761757526.967236"
+                        ]
+                    },
+                    "evidence": {
+                        "Chief Complaint: Pain in upper left canine.": [
+                            "1761757526.967236"
+                        ],
+                        "Pain in upper left canine.": [
+                            "1761757526.9671009"
+                        ]
+                    }
+                },
+                "1834": {
+                    "clinical_concept": {
+                        "Follow-up visit in one week": [
+                            "1761757526.9653919"
+                        ],
+                        "Follow-up visit recommendation": [
+                            "1761757526.965673"
+                        ],
+                        "Scheduled follow-up visit in one week": [
+                            "1761757526.965556"
+                        ]
+                    },
+                    "evidence": {
+                        "The patient is advised to return for a follow-up visit in a week to monitor for any complications.": [
+                            "1761757526.965673"
+                        ],
+                        "The patient is scheduled for a follow-up visit in a week.": [
+                            "1761757526.965556"
+                        ],
+                        "The patient will return in one week for a follow-up visit to ensure there are no complications.": [
+                            "1761757526.9653919"
+                        ]
+                    }
+                },
+                "3026": {
+                    "clinical_concept": {
+                        "Elevated inflammatory markers (ESR and CRP)": [
+                            "1761757526.971333"
+                        ]
+                    },
+                    "evidence": {
+                        "Laboratory investigations revealed that the erythrocyte sedimentation rate (ESR) was 69 mm/h and the C-reactive protein (CRP) level was 5.80 mg/dL": [
+                            "1761757526.971333"
+                        ]
+                    }
+                },
+                "3093": {
+                    "clinical_concept": {
+                        "Ongoing weekly injections and high-dose nerve pain medications": [
+                            "1761757526.9723918"
+                        ],
+                        "Schedule MRI for spinal cord compression assessment": [
+                            "1761757526.9725811"
+                        ],
+                        "Weekly pain relief injections": [
+                            "1761757526.972142"
+                        ]
+                    },
+                    "evidence": {
+                        "1. Schedule imaging tests, including an MRI, to assess for spinal cord compression or other structural issues.": [
+                            "1761757526.9725811"
+                        ],
+                        "She currently receives weekly injections for pain relief, which provide only marginal benefit for a week.": [
+                            "1761757526.972142"
+                        ],
+                        "She currently receives weekly injections for pain relief... She is on high doses of medication for nerve pain relief": [
+                            "1761757526.9723918"
+                        ]
+                    }
+                },
+                "3293": {
+                    "clinical_concept": {
+                        "Benign myofibroblastic lesion with positive margins": [
+                            "1761757526.9648929"
+                        ]
+                    },
+                    "evidence": {
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy. The resected margins were however, positive for residual lesion": [
+                            "1761757526.9648929"
+                        ]
+                    }
+                },
+                "155216": {
+                    "clinical_concept": {
+                        "Current Olanzapine Therapy": [
+                            "1763076386.814137"
+                        ]
+                    },
+                    "evidence": {
+                        "Current Medication: Olanzapine (2.5-10 mg/day)": [
+                            "1763076386.814137"
+                        ]
+                    }
+                }
+            },
+            "g2": {
+                "431": {
+                    "clinical_concept": {
+                        "No scheduled follow-up unless new symptoms": [
+                            "1761757526.964393"
+                        ],
+                        "Postoperative follow-up plan": [
+                            "1761757526.964253"
+                        ]
+                    },
+                    "evidence": {
+                        "Continue monitoring for any new symptoms or concerns. Follow-up as needed.": [
+                            "1761757526.964253"
+                        ],
+                        "No immediate follow-up required unless the patient experiences new symptoms or has further questions.": [
+                            "1761757526.964393"
+                        ]
+                    }
+                },
+                "958": {
+                    "clinical_concept": {
+                        "Pain in upper left canine": [
+                            "1761757526.967568"
+                        ],
+                        "Schedule permanent bridge placement": [
+                            "1761757526.967391"
+                        ]
+                    },
+                    "evidence": {
+                        "Schedule an appointment for the placement of a permanent bridge next week.": [
+                            "1761757526.967391"
+                        ],
+                        "complaint of pain in the upper left canine, persisting for a few weeks, particularly when chewing or biting.": [
+                            "1761757526.967568"
+                        ]
+                    }
+                },
+                "1834": {
+                    "clinical_concept": {
+                        "Follow-up visit in one week": [
+                            "1761757526.966008"
+                        ],
+                        "Postoperative follow-up visit in one week": [
+                            "1761757526.965918"
+                        ],
+                        "Scheduled post-operative follow-up": [
+                            "1761757526.9657931"
+                        ]
+                    },
+                    "evidence": {
+                        "The patient is scheduled for a follow-up visit in one week.": [
+                            "1761757526.9657931",
+                            "1761757526.966008",
+                            "1761757526.965918"
+                        ]
+                    }
+                },
+                "2021": {
+                    "clinical_concept": {
+                        "Spontaneously healed rupture of right axillary aneurysm": [
+                            "1761757526.966611"
+                        ]
+                    },
+                    "evidence": {
+                        "contour irregularities at the distal end of the right-side aneurysm. These latter findings were proposed to be due to a spontaneously healed rupture.": [
+                            "1761757526.966611"
+                        ]
+                    }
+                },
+                "3093": {
+                    "clinical_concept": {
+                        "Weekly pain relief injections": [
+                            "1761757526.972963"
+                        ]
+                    },
+                    "evidence": {
+                        "She currently receives weekly injections for pain relief, which provide marginal benefit.": [
+                            "1761757526.972963"
+                        ]
+                    }
+                },
+                "3293": {
+                    "clinical_concept": {
+                        "Histopathology: benign myofibroblastic proliferation with osteoid formation": [
+                            "1761757526.9652648"
+                        ]
+                    },
+                    "evidence": {
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy": [
+                            "1761757526.9652648"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

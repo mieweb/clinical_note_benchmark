@@ -1,0 +1,556 @@
+{
+    "results": {
+        "ozwell": {
+            "g1": {
+                "224": {
+                    "clinical_concept": {
+                        "Outpatient consultation and social skill training": [
+                            "1761757526.970464",
+                            "1761757526.96988"
+                        ],
+                        "Social skills training initiated": [
+                            "1761757526.97027"
+                        ]
+                    },
+                    "evidence": {
+                        "Therefore, we initiated consultation and social skill training in our outpatient clinic for the daughter.": [
+                            "1761757526.96988"
+                        ],
+                        "we initiated consultation and social skill training in our outpatient clinic for the daughter": [
+                            "1761757526.97027"
+                        ],
+                        "we initiated consultation and social skill training in our outpatient clinic for the daughter.": [
+                            "1761757526.970464"
+                        ]
+                    }
+                },
+                "562": {
+                    "clinical_concept": {
+                        "Removal of titanium bone plate and four screws": [
+                            "1761757526.969004"
+                        ],
+                        "Removal of titanium bone plate and screws": [
+                            "1761757526.968638",
+                            "1761757526.969177"
+                        ]
+                    },
+                    "evidence": {
+                        "However, a decision was made to remove them based on the fact that they are present in an infected area.": [
+                            "1761757526.969004",
+                            "1761757526.969177"
+                        ],
+                        "a decision was made to remove them based on the fact that they are present in an infected area": [
+                            "1761757526.968638"
+                        ]
+                    }
+                },
+                "619": {
+                    "clinical_concept": {
+                        "Aortic root replacement with 25 mm biological valved-conduit": [
+                            "1761757526.9617999",
+                            "1761757526.96194"
+                        ],
+                        "Root replacement with 25 mm biological valved-conduit": [
+                            "1761757526.961558"
+                        ]
+                    },
+                    "evidence": {
+                        "Root replacement was then performed with a 25 mm biological valved-conduit": [
+                            "1761757526.9617999"
+                        ],
+                        "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis": [
+                            "1761757526.961558"
+                        ],
+                        "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis, despite the risk of a difficult redo procedure in the future.": [
+                            "1761757526.96194"
+                        ]
+                    }
+                },
+                "958": {
+                    "clinical_concept": {
+                        "Extraction of four remaining anterior teeth": [
+                            "1761757526.96689"
+                        ]
+                    },
+                    "evidence": {
+                        "In a further step, the four remaining teeth were also extracted using the SST": [
+                            "1761757526.96689"
+                        ]
+                    }
+                },
+                "1380": {
+                    "clinical_concept": {
+                        "Facial asymmetry": [
+                            "1761757526.96251",
+                            "1761757526.962677"
+                        ],
+                        "Facial asymmetry on right mandibular region": [
+                            "1761757526.9627829"
+                        ]
+                    },
+                    "evidence": {
+                        "severe swelling and facial asymmetry on the right mandibular molar region": [
+                            "1761757526.9627829",
+                            "1761757526.96251",
+                            "1761757526.962677"
+                        ]
+                    }
+                },
+                "1716": {
+                    "clinical_concept": {
+                        "Current opioid and adjuvant analgesic regimen": [
+                            "1761757526.959916"
+                        ],
+                        "Planned chemical neurolytic brachial plexus block with dehydrated ethanol": [
+                            "1761757526.960098"
+                        ],
+                        "Right brachial plexus neurolytic block with dehydrated ethanol plan": [
+                            "1761757526.9601989"
+                        ]
+                    },
+                    "evidence": {
+                        "extended release morphine 90 mg two times a day, immediate release morphine 30 mg every 2 to 3 hours, methadone 5 mg daily, and gabapentin 800 mg three times daily": [
+                            "1761757526.959916"
+                        ],
+                        "patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol.": [
+                            "1761757526.960098"
+                        ],
+                        "the patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol.": [
+                            "1761757526.9601989"
+                        ]
+                    }
+                },
+                "2021": {
+                    "clinical_concept": {
+                        "Adjacent hyperechogenic mass": [
+                            "1761757526.966249"
+                        ],
+                        "Hyperechogenic mass adjacent to right axillary aneurysm (48 \u00d7 40 mm)": [
+                            "1761757526.966337"
+                        ],
+                        "Incidental hyperechogenic mass 48\u00d740mm adjacent to right axillary artery": [
+                            "1761757526.966124"
+                        ]
+                    },
+                    "evidence": {
+                        "Adjacent to the aneurysm, there was a 48 \u00d7 40 mm hyperechogenic mass not related to the aneurysm.": [
+                            "1761757526.966124",
+                            "1761757526.966249",
+                            "1761757526.966337"
+                        ]
+                    }
+                },
+                "3026": {
+                    "clinical_concept": {
+                        "Calcific myonecrosis": [
+                            "1761757526.971468"
+                        ],
+                        "Calcific myonecrosis diagnosis": [
+                            "1761757526.9711301"
+                        ]
+                    },
+                    "evidence": {
+                        "These findings led to the diagnosis of calcific myonecrosis.": [
+                            "1761757526.971468",
+                            "1761757526.9711301"
+                        ]
+                    }
+                },
+                "3058": {
+                    "clinical_concept": {
+                        "Transitional meningioma": [
+                            "1761757526.97376",
+                            "1761757526.973452"
+                        ],
+                        "Transitional meningioma diagnosis": [
+                            "1761757526.973643"
+                        ]
+                    },
+                    "evidence": {
+                        "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses": [
+                            "1761757526.97376",
+                            "1761757526.973452"
+                        ],
+                        "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses (Table ).": [
+                            "1761757526.973643"
+                        ]
+                    }
+                },
+                "3293": {
+                    "clinical_concept": {
+                        "Benign myofibroblastic proliferation lesion with osteoid formation (fasciitis-like), no malignancy": [
+                            "1761757526.964585"
+                        ],
+                        "Histopathology results: benign fasciitis-like lesion": [
+                            "1761757526.964792"
+                        ]
+                    },
+                    "evidence": {
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation ... no evidence of malignancy": [
+                            "1761757526.964792"
+                        ],
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy.": [
+                            "1761757526.964585"
+                        ]
+                    }
+                },
+                "3931": {
+                    "clinical_concept": {
+                        "Conversion to open adrenalectomy via sub-costal incision": [
+                            "1761757526.959293"
+                        ],
+                        "Conversion to open surgery": [
+                            "1761757526.9591439"
+                        ],
+                        "Conversion to open surgery via sub-costal incision": [
+                            "1761757526.95874"
+                        ]
+                    },
+                    "evidence": {
+                        "we decided to convert to open surgery by a sub-costal incision": [
+                            "1761757526.9591439"
+                        ],
+                        "we decided to convert to open surgery by a sub-costal incision (between two trocars) that allowed us to remove the mass safely": [
+                            "1761757526.95874",
+                            "1761757526.959293"
+                        ]
+                    }
+                },
+                "4129": {
+                    "clinical_concept": {
+                        "Aortic stent placement with post-dilation": [
+                            "1761757526.9681568"
+                        ],
+                        "Thoracoabdominal aortic stent placement": [
+                            "1761757526.96804",
+                            "1761757526.9678662"
+                        ]
+                    },
+                    "evidence": {
+                        "The patient underwent arteriogram; the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon.": [
+                            "1761757526.96804",
+                            "1761757526.9681568"
+                        ],
+                        "the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon": [
+                            "1761757526.9678662"
+                        ]
+                    }
+                },
+                "155216": {
+                    "clinical_concept": {
+                        "Tardive dystonia": [
+                            "1763076409.011706",
+                            "1763076216.781698"
+                        ]
+                    },
+                    "evidence": {
+                        "Our case is the first case of an affective illness in an adolescent girl developing tardive dystonia on olanzapine.": [
+                            "1763076409.011706",
+                            "1763076216.781698"
+                        ]
+                    }
+                }
+            },
+            "g2": {
+                "224": {
+                    "clinical_concept": {
+                        "Father\u2019s visual impairment": [
+                            "1761757526.970966"
+                        ],
+                        "Outpatient consultation and social skill training for caregiver": [
+                            "1761757526.9708018"
+                        ],
+                        "Outpatient social skill training referral": [
+                            "1761757526.970645"
+                        ]
+                    },
+                    "evidence": {
+                        "because her father was visually impaired": [
+                            "1761757526.970966"
+                        ],
+                        "we initiated consultation and social skill training in our outpatient clinic for the daughter": [
+                            "1761757526.9708018"
+                        ],
+                        "we initiated consultation and social skill training in our outpatient clinic for the daughter.": [
+                            "1761757526.970645"
+                        ]
+                    }
+                },
+                "431": {
+                    "clinical_concept": {
+                        "Preoperative radiological suspicion of invasive sigmoid disease": [
+                            "1761757526.9640582"
+                        ]
+                    },
+                    "evidence": {
+                        "radiological imaging had initially raised the possibility of invasive disease in view of sigmoid thickening.": [
+                            "1761757526.9640582"
+                        ]
+                    }
+                },
+                "562": {
+                    "clinical_concept": {
+                        "Removal of titanium bone plate and screws": [
+                            "1761757526.969353",
+                            "1761757526.9695501",
+                            "1761757526.9696908"
+                        ]
+                    },
+                    "evidence": {
+                        "However, a decision was made to remove them based on the fact that they are present in an infected area.": [
+                            "1761757526.969353",
+                            "1761757526.9696908"
+                        ],
+                        "a decision was made to remove them based on the fact that they are present in an infected area": [
+                            "1761757526.9695501"
+                        ]
+                    }
+                },
+                "619": {
+                    "clinical_concept": {
+                        "Aortic root replacement with 25 mm biological valved-conduit": [
+                            "1761757526.962232"
+                        ],
+                        "Biological valved-conduit aortic root replacement": [
+                            "1761757526.962055"
+                        ],
+                        "Bioprosthetic valved-conduit aortic root replacement (25 mm)": [
+                            "1761757526.962353"
+                        ]
+                    },
+                    "evidence": {
+                        "Root replacement was then performed with a 25 mm biological valved-conduit, as this was favoured by the patient over a mechanical prosthesis": [
+                            "1761757526.962055",
+                            "1761757526.962232",
+                            "1761757526.962353"
+                        ]
+                    }
+                },
+                "958": {
+                    "clinical_concept": {
+                        "Retained root fragments from partial extraction (socket shield)": [
+                            "1761757526.967705"
+                        ]
+                    },
+                    "evidence": {
+                        "a section of the buccal part of the root (about the two middle thirds) was left in place and no biomaterial was used at all": [
+                            "1761757526.967705"
+                        ]
+                    }
+                },
+                "1380": {
+                    "clinical_concept": {
+                        "Postoperative follow-up findings: resolution of osteomyelitis and bone remodeling": [
+                            "1761757526.963152"
+                        ],
+                        "Postoperative follow-up outcome": [
+                            "1761757526.962952"
+                        ],
+                        "Postoperative follow-up: bone remodeling and resolution": [
+                            "1761757526.963317"
+                        ]
+                    },
+                    "evidence": {
+                        "The postoperative examination four months later revealed that the bone contours had returned to normal, the asymmetry of the face had disappeared, and the cortical bone thickness had decreased and been remodeled to the previous normal appearance": [
+                            "1761757526.963317"
+                        ],
+                        "The postoperative examination four months later revealed that the bone contours had returned to normal, the asymmetry of the face had disappeared, and the cortical bone thickness had decreased and been remodeled to the previous normal appearance.": [
+                            "1761757526.963152",
+                            "1761757526.962952"
+                        ]
+                    }
+                },
+                "1716": {
+                    "clinical_concept": {
+                        "Chemical neurolytic brachial plexus block with dehydrated ethanol": [
+                            "1761757526.960448",
+                            "1761757526.961107"
+                        ],
+                        "Current high-dose opioid and adjuvant regimen": [
+                            "1761757526.960763"
+                        ]
+                    },
+                    "evidence": {
+                        "The patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol.": [
+                            "1761757526.960448"
+                        ],
+                        "extended release morphine 90 mg two times a day, immediate release morphine 30 mg every 2 to 3 hours, methadone 5 mg daily, and gabapentin 800 mg three times daily": [
+                            "1761757526.960763"
+                        ],
+                        "the patient elected to proceed to a right brachial plexus nerve block with dehydrated ethanol": [
+                            "1761757526.961107"
+                        ]
+                    }
+                },
+                "2021": {
+                    "clinical_concept": {
+                        "Hyperechogenic mass adjacent to aneurysm": [
+                            "1761757526.966448"
+                        ],
+                        "Referral for surgery": [
+                            "1761757526.966719"
+                        ]
+                    },
+                    "evidence": {
+                        "Adjacent to the aneurysm, there was a 48 \u00d7 40 mm hyperechogenic mass not related to the aneurysm.": [
+                            "1761757526.966448"
+                        ],
+                        "so the patient was referred for surgery.": [
+                            "1761757526.966719"
+                        ]
+                    }
+                },
+                "3026": {
+                    "clinical_concept": {
+                        "Calcific myonecrosis": [
+                            "1761757526.97162"
+                        ],
+                        "Computed tomography (CT) scan findings": [
+                            "1761757526.971945"
+                        ],
+                        "Imaging findings of calcific mass": [
+                            "1761757526.97181"
+                        ]
+                    },
+                    "evidence": {
+                        "Furthermore, we observed that calcification within the fusiform mass and in the distal part of the deep posterior compartment had increased... CT scan... peripherally distributed calcification... evidence of increased uptake between the tibia and fibula in the delayed bone phase on 3 phases of bone scan": [
+                            "1761757526.97181"
+                        ],
+                        "These findings led to the diagnosis of calcific myonecrosis.": [
+                            "1761757526.97162"
+                        ],
+                        "We performed a computed tomography (CT) scan to examine the pattern and distribution of the calcifications more closely; peripherally distributed calcification was found in the anterior compartment and in the distal part of the deep posterior compartment, and sclerotic changes were found in the tibial and fibular cortex.": [
+                            "1761757526.971945"
+                        ]
+                    }
+                },
+                "3058": {
+                    "clinical_concept": {
+                        "Transitional meningioma diagnosis": [
+                            "1761757526.9742",
+                            "1761757526.9738991",
+                            "1761757526.9740741"
+                        ]
+                    },
+                    "evidence": {
+                        "The tumor was shown to be a transitional meningioma on histological examination": [
+                            "1761757526.9740741"
+                        ],
+                        "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses": [
+                            "1761757526.9738991"
+                        ],
+                        "The tumor was shown to be a transitional meningioma on histological examination, including immunohistochemical analyses.": [
+                            "1761757526.9742"
+                        ]
+                    }
+                },
+                "3093": {
+                    "clinical_concept": {
+                        "Discontinuation of weekly pain injections and high-dose nerve pain medications": [
+                            "1761757526.973231"
+                        ],
+                        "Qigong therapy with 90% pain improvement and cessation of pain medications/injections": [
+                            "1761757526.972754"
+                        ]
+                    },
+                    "evidence": {
+                        "She says it gave her a reason to get out of bed and socialize in the very early days of her practice. She is now able to walk with no limitations and her pain has improved by approximately 90%. Within three months of beginning qigong, she was able to stop all medications and injections she was receiving for pain relief.": [
+                            "1761757526.972754"
+                        ],
+                        "Within three months of beginning qigong, she was able to stop all medications and injections she was receiving for pain relief.": [
+                            "1761757526.973231"
+                        ]
+                    }
+                },
+                "3293": {
+                    "clinical_concept": {
+                        "Histopathology results and margin status": [
+                            "1761757526.965018"
+                        ],
+                        "Histopathology results including lesion type and margin status": [
+                            "1761757526.965159"
+                        ]
+                    },
+                    "evidence": {
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy. The resected margins were however, positive for residual lesion": [
+                            "1761757526.965018"
+                        ],
+                        "Histological assessment showed a lesion with fasciitis like features, myofibroblastic proliferation and scattered foci of osteoid formation that was positive for Alpha-Smooth Muscle Actin (ASMA 1A4) immune staining and no evidence of malignancy. The resected margins were however, positive for residual lesion with difficulty in obtaining negative margins due to the extensive nature of the mass.": [
+                            "1761757526.965159"
+                        ]
+                    }
+                },
+                "3931": {
+                    "clinical_concept": {
+                        "Benign adrenal schwannoma": [
+                            "1761757526.9597702"
+                        ],
+                        "Conversion to open adrenalectomy": [
+                            "1761757526.959671"
+                        ],
+                        "Final pathology: benign schwannoma": [
+                            "1761757526.95952"
+                        ]
+                    },
+                    "evidence": {
+                        "Thus, the evidences corresponded to a benign schwannoma": [
+                            "1761757526.9597702",
+                            "1761757526.95952"
+                        ],
+                        "we decided to convert to open surgery by a sub-costal incision (between two trocars) that allowed us to remove the mass safely": [
+                            "1761757526.959671"
+                        ]
+                    }
+                },
+                "4129": {
+                    "clinical_concept": {
+                        "Thoracic abdominal aortic stent placement": [
+                            "1761757526.968283"
+                        ],
+                        "Thoracic and abdominal aortic stent placement": [
+                            "1761757526.9684238"
+                        ],
+                        "Thoracic/abdominal aortic stent placement": [
+                            "1761757526.9685178"
+                        ]
+                    },
+                    "evidence": {
+                        "A Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon. A completion arteriogram demonstrated excellent flow across the stent.": [
+                            "1761757526.9684238"
+                        ],
+                        "The patient underwent arteriogram; the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon.": [
+                            "1761757526.9685178"
+                        ],
+                        "the patient underwent arteriogram; the stenosis was successfully navigated and a Protege 14 \u00d7 40 x 12 mm nitinol stent (Medtronic Vascular, Santa Rosa CA) was delivered followed by a 10 mm postdilation balloon.": [
+                            "1761757526.968283"
+                        ]
+                    }
+                },
+                "155216": {
+                    "clinical_concept": {
+                        "Sodium valproate 1000 mg per day": [
+                            "1763744878.57512"
+                        ],
+                        "Tardive dystonia": [
+                            "1763076421.606279"
+                        ],
+                        "Tetrabenazine therapy (up to 75 mg/day)": [
+                            "1763076367.833674"
+                        ]
+                    },
+                    "evidence": {
+                        "She was put on tablet sodium valproate, 1000 mg per day during this period for the stabilization of her mood": [
+                            "1763744878.57512"
+                        ],
+                        "first case of an affective illness in an adolescent girl developing tardive dystonia on olanzapine": [
+                            "1763076421.606279"
+                        ],
+                        "put on tablet tetrabenazine (built up to 75 mg per day in divided doses) with which the patient had started showing some response with an improvement in abnormal movements": [
+                            "1763076367.833674"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
